@@ -1,3 +1,5 @@
+Title : Studying Git & Github
+
 Difference between Git and GitHub
 - Git: where we track files; distributed version control system
 - Tracks every change of every file to the file history → You can go back in time
