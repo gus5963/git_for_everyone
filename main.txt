@@ -1,0 +1,19 @@
+Difference between Git and GitHub
+- Git: where we track files; distributed version control system
+- Tracks every change of every file to the file history → You can go back in time
+- Can watch whatever you want b/c git doesn't look at files as text but as binary code (0's and 1's).
+- GitHub: git provider; where you upload and share your git files & changes (history)
+- Not the only cloud git provider; Bitbucket and GitLab exist.
+- Has the highest market share among the three biggest providers
+* Git projects exist inside GitHub
+
+
+
+
+Commit: record; point in time
+- When you make a commit, you're basically setting the record in your git
+Initial commit: the one GitHub Desktop makes when it creates a git repo
+* Good practice: say what you did in the commit message (title: mandatory, description: not mandatory)
+After you commit, you have no uncommitted changes in the repo
+▣ : green (new file) --> yellow (modified)
+What people usually do: when they make a big major change, they want to save the pointing in the git history
