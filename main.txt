@@ -37,4 +37,8 @@ Update from default branch: in the alternative timeline, we want to update what 
 Merge into current branch: bring a branch from outside to the master branch
 Then, delete the unnecessary branch(es) merged
 
+<<<<<<< HEAD
 first-branch
+=======
+what do you want??
+>>>>>>> main
