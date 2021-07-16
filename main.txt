@@ -36,3 +36,5 @@ Branch: alternative timeline from the last commit
 Update from default branch: in the alternative timeline, we want to update what happened
 Merge into current branch: bring a branch from outside to the master branch
 Then, delete the unnecessary branch(es) merged
+
+first-branch
