@@ -19,3 +19,20 @@ Initial commit: the one GitHub Desktop makes when it creates a git repo
 After you commit, you have no uncommitted changes in the repo
 ▣ : green (new file) --> yellow (modified)
 What people usually do: when they make a big major change, they want to save the pointing in the git history
+
+
+Git has 3 different areas
+1) Working area: where you're working
+2) Staging area: when a file is going to be committed
+- By default, on GitHub Desktop, all the files go straight to the staging area
+- Checkbox selected immediately --> going to be committed immediately
+3) Repository (or commit) area: when the file has been committed and we have a snapshot of the commit info
+
+Master: main branch (when you started)
+Branch out of master: take all the history of master but make a branch from it
+Branch: alternative timeline from the last commit
+- Starting point: last point from the master
+- Commit on the master
+Update from default branch: in the alternative timeline, we want to update what happened
+Merge into current branch: bring a branch from outside to the master branch
+Then, delete the unnecessary branch(es) merged
